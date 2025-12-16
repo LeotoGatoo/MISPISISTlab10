@@ -1,1 +1,10 @@
-# MISPISISTlab10
+![University](https://github.com/user-attachments/assets/79e9bf83-8485-42ea-b3ee-94dfc1a1085d)
+![University Use Case Diagram](https://github.com/user-attachments/assets/b1a35053-f643-4422-914b-08641f386e20)
+![University Sequence Diagram](https://github.com/user-attachments/assets/02683638-5e8e-459c-83b8-f9c4437aa473)
+![University class diagram](https://github.com/user-attachments/assets/f8c6d255-2d66-4dd5-91d1-f640fb126b10)
+![University Activity Diagram](https://github.com/user-attachments/assets/f79c264f-ac07-4fa0-aab1-1fe215da3093)
+![new University](https://github.com/user-attachments/assets/712198ff-c8f7-4a51-9fb5-4370cdacd05a)
+![Class Diagram2](https://github.com/user-attachments/assets/86b25044-e123-4623-acaa-ca7fe2c3fd8c)
+![Class Diagram1](https://github.com/user-attachments/assets/96156e85-6416-4f35-9a1c-2715a23da969)
+![Обратный инженеринг](https://github.com/user-attachments/assets/8d5fc08d-1cc1-4d75-a04a-ed43acc4a514)
+![Вывод](https://github.com/user-attachments/assets/850d2ddb-7585-486a-abec-c961ac3fbc45)
